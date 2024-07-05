@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">Projects Portfolio</h2>
+<h2 align="left">Public Projects Portfolio</h2>
 
 <div>
 <ul> <h4 align="left">📈 Data Visualization</h4>
