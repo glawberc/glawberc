@@ -53,5 +53,6 @@
 <div>
 <ul> <h4 align="left">🧬 Data Science</h4>
   <li><a href="https://github.com/glawberc/FinalAssessmentDataScience">Final Assessment Project - Professional Certificate Data Scientist IBM</li>
+  <li><a href="https://hub.labs.coursera.org/connect/sharedkxhjsekx?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep">Data Science Challenge - Coursera</li>
 </ul>
 </div>
