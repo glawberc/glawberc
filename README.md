@@ -52,6 +52,6 @@
 
 <div>
 <ul> <h4 align="left">🧬 Data Science</h4>
-  <li></li>
+  <li><a href="https://github.com/glawberc/FinalAssessmentDataScience">Final Assessment Project - Professional Certificate Data Scientist IBM</li>
 </ul>
 </div>
