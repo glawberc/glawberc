@@ -55,5 +55,6 @@
   <li><a href="https://github.com/glawberc/FinalAssessmentDataScience">Final Assessment Project - Professional Certificate Data Scientist IBM</li>
   <li><a href="https://hub.labs.coursera.org/connect/sharedkxhjsekx?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep">Data Science Challenge - Coursera</li>
   <li><a href="https://github.com/glawberc/projectdata">Creating a Data Science Wep Application with Streamlit and Python</li>
+  <li><a href="https://github.com/glawberc/WebAppMLStreamlit">Machine Learning Web Application with Scikit Learn and Streamlit</li>
 </ul>
 </div>
